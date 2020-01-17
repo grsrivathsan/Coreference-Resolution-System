@@ -1,0 +1,45 @@
+<COREF ID="X0">AEROFLOT</COREF>
+{9} {Aeroflot}
+
+<COREF ID="X1">FAMILIES</COREF>
+{9} {families}
+{21} {family}
+
+<COREF ID="X2">03-27</COREF>
+{22} {03-27-96}
+
+<COREF ID="X3">AREOFLOT CRASH DEATHS</COREF>
+{13} {deaths}
+{17} {death}
+
+<COREF ID="X4">a writ</COREF>
+{11} {writ}
+{12} {writ}
+
+<COREF ID="X5">Hong Kong</COREF>
+{12} {Hong Kong}
+{19} {Hong Kong}
+{20} {Hong Kong}
+{21} {Hong Kong}
+
+<COREF ID="X6">the Aeroflot Airbus</COREF>
+
+<COREF ID="X7">Aeroflot general manager for Hong Kong Vassili Tkatchenko</COREF>
+{11} {he}
+{12} {Hong Kong}
+{19} {Hong Kong}
+{20} {Hong Kong}
+{21} {Hong Kong}
+
+<COREF ID="X8">the 15-year-old son of Captain Yaroslav Kudrinsky</COREF>
+{15} {sister}
+
+<COREF ID="X9">Yana</COREF>
+
+<COREF ID="X10">Airline passengers</COREF>
+{17} {passengers}
+
+<COREF ID="X11">Aviation consultant Steve Miller</COREF>
+{19} {he}
+{20} {Miller}
+

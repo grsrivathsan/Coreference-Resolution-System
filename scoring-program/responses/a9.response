@@ -1,0 +1,131 @@
+<COREF ID="X0">F14-CRASHES</COREF>
+{5} {BC-F14-CRASHES-BLOOM}
+{6} {NORTHROP GRUMMAN F-14S TO STAND DOWN FOR REVIEW OF ACCIDENTS}
+{10} {F-14 crashes}
+{10} {Northrop Grumman Corp. F-14s}
+{11} {an F-14A fighter}
+{13} {an F-14D crashed}
+{14} {an F-14A crashed}
+{16} {F-14}
+{16} {F-14As}
+{17} {F-14}
+{17} {F-14s}
+{17} {F-14 operations}
+{18} {F-14s on board}
+{22} {F-14s}
+{26} {F-14}
+{30} {the last F-14}
+
+<COREF ID="X1">02-22</COREF>
+{10} {Feb. 22}
+{34} {NYT-02-22-96}
+
+<COREF ID="X2">NORTHROP GRUMMAN F-14S</COREF>
+{10} {F-14 crashes}
+{10} {Northrop Grumman Corp. F-14s}
+{11} {an F-14A fighter}
+{13} {an F-14D crashed}
+{14} {an F-14A crashed}
+{16} {F-14}
+{16} {F-14As}
+{17} {F-14}
+{17} {F-14s}
+{17} {F-14 operations}
+{18} {F-14s on board}
+{22} {F-14s}
+{26} {F-14}
+{29} {Northrop Grumman}
+{29} {Grumman Corp.}
+{30} {the last F-14}
+{30} {Northrop Grumman}
+{30} {John Vosilla}
+{33} {Grumman}
+{33} {Northrop}
+
+<COREF ID="X3">Bloomberg Business News</COREF>
+{10} {Bloomberg}
+{12} {the aircraft carrier}
+
+<COREF ID="X4">Navy</COREF>
+{12} {Navy}
+{12} {USS Nimitz}
+{16} {Navy}
+{17} {Navy}
+{18} {USS America}
+{18} {United States}
+{19} {Oceana Naval Air Station}
+{20} {Navy}
+{22} {Navy}
+{24} {United}
+{26} {Navy}
+{27} {Navy}
+{30} {Navy}
+{31} {Navy}
+{32} {Naval Operations Mike Boorda}
+
+<COREF ID="X5">three days</COREF>
+{11} {an F-14A fighter}
+{11} {today}
+{13} {an F-14D crashed}
+{14} {an F-14A crashed}
+{15} {The cause of today}
+{16} {F-14}
+{16} {F-14As}
+{17} {F-14}
+{17} {F-14s}
+{17} {F-14 operations}
+{18} {F-14s on board}
+{18} {United States}
+{21} {night}
+{21} {day}
+{22} {F-14s}
+{24} {United}
+{26} {F-14}
+{29} {New York}
+{30} {the last F-14}
+{31} {about today}
+{32} {days}
+
+<COREF ID="X6">Persian Gulf</COREF>
+{18} {Persian Gulf}
+
+<COREF ID="X7">a 72-hour safety standdown</COREF>
+{18} {the standdown}
+{24} {a unit}
+{24} {amp}
+{32} {safety}
+
+<COREF ID="X8">Lt. Greg Geisen</COREF>
+{18} {Geisen}
+{27} {Geisen}
+{28} {Geisen}
+{32} {Geisen}
+
+<COREF ID="X9">the F-14</COREF>
+{18} {F-14s on board}
+{22} {F-14s}
+{26} {F-14}
+{30} {the last F-14}
+
+<COREF ID="X10">14 F-14s on board the USS America</COREF>
+{22} {F-14s}
+{24} {United}
+{26} {F-14}
+{30} {the last F-14}
+
+<COREF ID="X11">Pratt @amp; Whitney</COREF>
+
+<COREF ID="X12">F-14 32 crashes since 1991</COREF>
+{30} {the last F-14}
+{31} {crash}
+{32} {recent crashes}
+
+<COREF ID="X13">the mid 1970s</COREF>
+
+<COREF ID="X14">Grumman Corp.</COREF>
+{30} {Northrop Grumman}
+{33} {Grumman}
+
+<COREF ID="X15">Northrop Grumman spokesman John Vosilla</COREF>
+{33} {Grumman}
+{33} {Northrop}

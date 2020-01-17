@@ -1,0 +1,171 @@
+<COREF ID="X0">OPEC</COREF>
+{5} {Organization}
+{7} {OPEC}
+{11} {OPEC}
+{12} {OPEC}
+{14} {OPEC}
+{17} {OPEC}
+{18} {OPEC}
+{19} {OPEC}
+{20} {OPEC}
+{21} {OPEC}
+{22} {OPEC}
+{23} {OPEC}
+{24} {OPEC}
+{25} {OPEC}
+{26} {OPEC}
+
+<COREF ID="X1">a Price War</COREF>
+{5} {war}
+{19} {war}
+
+<COREF ID="X2">Output</COREF>
+{6} {output}
+{14} {production}
+{15} {production}
+{18} {output}
+{23} {output}
+{24} {output}
+{24} {production}
+
+<COREF ID="X3">Quota Violator</COREF>
+{7} {violator}
+{14} {quota}
+{17} {quota}
+
+<COREF ID="X4">price</COREF>
+
+<COREF ID="X5">a sharp rise in OPEC production</COREF>
+{7} {OPEC}
+{11} {OPEC}
+{12} {OPEC}
+{14} {production}
+{14} {OPEC}
+{15} {production}
+{17} {OPEC}
+{18} {OPEC}
+{19} {OPEC}
+{20} {OPEC}
+{21} {OPEC}
+{22} {OPEC}
+{23} {OPEC}
+{24} {production}
+{24} {OPEC}
+{25} {OPEC}
+{26} {OPEC}
+
+<COREF ID="X6">a day</COREF>
+{15} {day}
+{24} {day}
+{26} {day}
+
+<COREF ID="X7">20 million barrels a day early this month</COREF>
+{15} {million}
+{15} {barrels}
+{15} {day}
+{17} {month}
+{24} {month}
+{24} {barrels}
+{24} {day}
+{26} {barrels}
+{26} {day}
+
+<COREF ID="X8">its own output</COREF>
+{18} {output}
+{23} {output}
+{24} {output}
+
+<COREF ID="X9">a targeted 1.5 million barrels a day</COREF>
+{15} {million}
+{15} {barrels}
+{15} {day}
+{24} {barrels}
+{24} {day}
+{26} {barrels}
+{26} {day}
+
+<COREF ID="X10">Saudi Arabia</COREF>
+{23} {Saudi Arabia}
+
+<COREF ID="X11">its government</COREF>
+{14} {government}
+
+<COREF ID="X12">conciliatory gestures to OPEC</COREF>
+{11} {OPEC}
+{12} {OPEC}
+{14} {OPEC}
+{17} {OPEC}
+{18} {OPEC}
+{19} {OPEC}
+{20} {OPEC}
+{21} {OPEC}
+{22} {OPEC}
+{23} {OPEC}
+{24} {OPEC}
+{25} {OPEC}
+{26} {OPEC}
+
+<COREF ID="X13">yesterday</COREF>
+{14} {yesterday}
+{21} {yesterday}
+
+<COREF ID="X14">Abu Dhabi</COREF>
+{20} {Abu Dhabi}
+
+<COREF ID="X15">OPEC's new secretary-general, </COREF>
+
+<COREF ID="X16">Sheik Zayed Al Nahyyan, </COREF>
+
+<COREF ID="X17">Rilwanu Lukman, </COREF>
+
+<COREF ID="X18">its assigned quota of 948,000 barrels a day</COREF>
+{14} {quota}
+{15} {barrels}
+{15} {day}
+{17} {quota}
+{24} {barrels}
+{24} {day}
+{26} {barrels}
+{26} {day}
+
+<COREF ID="X19">the round of talks with Mr. Subroto</COREF>
+{20} {Mr. Subroto}
+{22} {talks}
+
+<COREF ID="X20">the Emirates' official news agency</COREF>
+{13} {Emirates}
+{14} {Emirates}
+{15} {Emirates}
+{17} {Emirates}
+{20} {Emirates}
+
+<COREF ID="X21">oil</COREF>
+{20} {oil}
+{25} {oil}
+
+<COREF ID="X22">such excess output by the Emirates</COREF>
+{17} {Emirates}
+{18} {output}
+{20} {Emirates}
+{23} {output}
+{24} {output}
+
+<COREF ID="X23">the world oil markets</COREF>
+{20} {oil}
+{25} {markets}
+{25} {oil}
+
+<COREF ID="X24">That</COREF>
+
+<COREF ID="X25">other exporters</COREF>
+
+<COREF ID="X26">the meeting</COREF>
+
+<COREF ID="X27">just over 19 million barrels a day</COREF>
+{26} {barrels}
+{26} {day}
+
+<COREF ID="X28">Charles L. McSpadden, </COREF>
+
+<COREF ID="X29">Antonio M. Szabo, </COREF>
+

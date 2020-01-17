@@ -1,0 +1,84 @@
+<COREF ID="X0">Pan Am</COREF>
+
+<COREF ID="X1">Teamsters</COREF>
+{6} {Teamsters}
+{8} {Teamsters}
+{13} {Teamsters}
+{17} {Teamsters}
+{18} {Teamsters}
+{20} {Teamsters}
+{26} {Teamsters}
+{30} {Teamsters}
+
+<COREF ID="X2">Contract Talks</COREF>
+{6} {contract}
+{10} {talks}
+{18} {talks}
+{26} {contract}
+
+<COREF ID="X3">The National Mediation Board</COREF>
+{8} {board}
+{9} {board}
+{10} {National Mediation Board}
+{11} {board}
+{27} {board}
+
+<COREF ID="X4">a wage-concession agreement</COREF>
+{13} {agreement}
+{16} {agreement}
+{17} {agreement}
+{29} {agreement}
+{30} {agreement}
+
+<COREF ID="X5">both sides</COREF>
+
+<COREF ID="X6">arbitration</COREF>
+{9} {arbitration}
+{24} {arbitration}
+
+<COREF ID="X7">William Genoese</COREF>
+{8} {he}
+{18} {Mr. Genoese}
+{19} {Mr. Genoese}
+{21} {Mr. Genoese}
+
+<COREF ID="X8">today</COREF>
+{28} {today}
+
+<COREF ID="X9">changes in senior management</COREF>
+{14} {management}
+{14} {change}
+
+<COREF ID="X10">a coalition of four of Pan Am's five unions</COREF>
+{14} {coalition}
+{16} {union}
+{24} {union}
+{27} {union}
+{30} {union}
+
+<COREF ID="X11">William T. Coleman</COREF>
+{20} {Mr. Coleman}
+
+<COREF ID="X12">tomorrow</COREF>
+
+<COREF ID="X13">Mr. Coleman</COREF>
+{18} {he}
+{19} {he}
+{20} {Mr. Coleman}
+
+<COREF ID="X14">a "cordial" initial meeting with Mr. Coleman last Thursday</COREF>
+{19} {he}
+{20} {meeting}
+{20} {Mr. Coleman}
+
+<COREF ID="X15">Pan Am's pilots union</COREF>
+{30} {union}
+
+<COREF ID="X16">an agreement to deliver concessions to the company</COREF>
+{29} {agreement}
+{30} {company}
+{30} {agreement}
+
+<COREF ID="X17">A pilot's union spokesman</COREF>
+{30} {union}
+

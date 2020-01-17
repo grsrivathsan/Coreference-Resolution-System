@@ -1,0 +1,2481 @@
+
+#############
+#    a13    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">AEROFLOT</COREF>
+| Correct Mention: {9} {Aeroflot}
+| Wrong Mention: {11} {Aeroflot}
+| Missed Mention: {5} {AEROFLOT} {AEROFLOT}
+| Missed Mention: {13} {the defendant} {defendant}
+| Missed Mention: {13} {Aeroflot} {Aeroflot}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">FAMILIES</COREF>
+| Correct Mention: {9} {families}
+| Wrong Mention: {10} {people}
+| Wrong Mention: {21} {family}
+| Missed Mention: {5} {FAMILIES} {FAMILIES}
+| Missed Mention: {6} {FAMILIES} {FAMILIES}
+| Missed Mention: {21} {family members who live outside Hong Kong} {members}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">03-27</COREF>
+| Correct Mention: {22} {03-27-96}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">AREOFLOT CRASH DEATHS</COREF>
+| Correct Mention: {13} {deaths}
+| Wrong Mention: {17} {death}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">a writ</COREF>
+| Correct Mention: {11} {writ}
+| Correct Mention: {12} {writ}
+| Correct Mention: {21} {writs}
+| Missed Mention: {13} {It} {It}
+| Missed Mention: {20} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">Hong Kong</COREF>
+| Correct Mention: {12} {Hong Kong}
+| Correct Mention: {19} {Hong Kong}
+| Correct Mention: {20} {Hong Kong}
+| Wrong Mention: {11} {Hong Kong}
+| Wrong Mention: {21} {Hong Kong}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">the Aeroflot Airbus</COREF>
+| Wrong Mention: {11} {Aeroflot}
+| Missed Mention: {10} {it} {it}
+| Missed Mention: {12} {the Moscow Airbus A310 flight} {Airbus A310}
+| Missed Mention: {14} {the Hong Kong-bound aircraft} {aircraft}
+| Missed Mention: {14} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">Aeroflot general manager for Hong Kong Vassili Tkatchenko</COREF>
+| Correct Mention: {11} {he}
+| Wrong Mention: {12} {Hong Kong}
+| Wrong Mention: {19} {Hong Kong}
+| Wrong Mention: {20} {Hong Kong}
+| Wrong Mention: {21} {Hong Kong}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">the 15-year-old son of Captain Yaroslav Kudrinsky</COREF>
+| Wrong Mention: {15} {sister}
+| Missed Mention: {15} {Eldar} {Eldar}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">Yana</COREF>
+| Missed Mention: {15} {his 13-year-old sister} {sister}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">Airline passengers</COREF>
+| Correct Mention: {17} {passengers}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">Aviation consultant Steve Miller</COREF>
+| Correct Mention: {19} {he}
+| Correct Mention: {20} {Miller}
+| Missed Mention: {19} {the managing director} {director}
+--------------------------------------------------
+
+
+#############
+#    a14    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">AIRLINE-LIABILITY</COREF>
+| Missed Mention: {5} {AIRLINE-LIABILITY} {LIABILITY}
+| Missed Mention: {10} {the liability of an airline when passengers die in a plane crash} {liability}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">04-05</COREF>
+| Correct Mention: {30} {04-05-96}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">AIRLINE CRASH-LIABILITY ACCORD</COREF>
+| Correct Mention: {10} {Warsaw Convention}
+| Correct Mention: {17} {Warsaw Convention}
+| Correct Mention: {27} {agreement}
+| Wrong Mention: {10} {accord}
+| Wrong Mention: {11} {agreement}
+| Wrong Mention: {24} {agreement}
+| Missed Mention: {11} {the accord} {accord}
+| Missed Mention: {18} {the document} {document}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">airlines</COREF>
+| Correct Mention: {18} {airlines}
+| Correct Mention: {22} {airlines}
+| Correct Mention: {23} {airlines}
+| Correct Mention: {25} {airlines}
+| Wrong Mention: {12} {airlines}
+| Wrong Mention: {19} {airlines}
+| Wrong Mention: {20} {Airlines}
+| Wrong Mention: {24} {airlines}
+| Wrong Mention: {27} {airline}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">$75,000 limit</COREF>
+| Correct Mention: {13} {limit}
+| Correct Mention: {14} {limit}
+| Correct Mention: {19} {limit}
+| Correct Mention: {20} {limit}
+| Wrong Mention: {13} {75,000}
+| Wrong Mention: {15} {limits}
+| Wrong Mention: {19} {limits}
+| Wrong Mention: {22} {limit}
+| Wrong Mention: {23} {limits}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">Americans</COREF>
+| Wrong Mention: {20} {American}
+| Wrong Mention: {21} {American}
+| Missed Mention: {28} {Americans} {Americans}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">United States</COREF>
+| Missed Mention: {14} {United States} {United States}
+| Missed Mention: {17} {United States} {United States}
+| Missed Mention: {28} {United States} {United States}
+| Missed Mention: {28} {United States} {United States}
+| Missed Mention: {29} {here} {here}
+| Missed Mention: {29} {here} {here}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">This</COREF>
+| Missed Mention: {13} {the third effort} {effort}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">Efforts</COREF>
+| Missed Mention: {14} {them} {them}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">U.S. officials</COREF>
+| Correct Mention: {25} {officials}
+| Wrong Mention: {24} {U.S.}
+| Wrong Mention: {25} {U.S.}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">aircraft manufacturers</COREF>
+| Missed Mention: {15} {them} {them}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">Jeffrey N. Shane</COREF>
+| Missed Mention: {16} {an aviation lawyer} {lawyer}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">many airlines</COREF>
+| Wrong Mention: {20} {Airlines}
+| Wrong Mention: {22} {airlines}
+| Wrong Mention: {23} {airlines}
+| Wrong Mention: {24} {airlines}
+| Wrong Mention: {25} {airlines}
+| Wrong Mention: {27} {airline}
+| Missed Mention: {19} {themselves} {themselves}
+| Missed Mention: {19} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">families</COREF>
+| Correct Mention: {25} {families}
+| Wrong Mention: {20} {families}
+| Wrong Mention: {20} {people}
+| Missed Mention: {27} {survivors} {survivors}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">American Airlines</COREF>
+| Correct Mention: {21} {American}
+| Missed Mention: {20} {it} {it}
+| Missed Mention: {20} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">Barry Lambert Harris</COREF>
+| Missed Mention: {21} {an acting administrator of the Federal Aviation Administration in the Bush administration} {administrator}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X16">U.S. airlines</COREF>
+| Wrong Mention: {25} {U.S.}
+| Wrong Mention: {25} {airlines}
+| Wrong Mention: {27} {airline}
+| Missed Mention: {29} {domestic carriers} {carriers}
+| Missed Mention: {29} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X17">fairly simple negotiations</COREF>
+| Correct Mention: {26} {negotiations}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X18">economic damages</COREF>
+| Missed Mention: {25} {the amount} {amount}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X19">the airline</COREF>
+| Missed Mention: {27} {the airline} {airline}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X20">a ``fifth jurisdiction''</COREF>
+| Correct Mention: {29} {jurisdiction}
+--------------------------------------------------
+
+
+#############
+#    a15    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">CRASH</COREF>
+| Wrong Mention: {10} {crash}
+| Wrong Mention: {12} {crash}
+| Missed Mention: {5} {CRASH} {CRASH}
+| Missed Mention: {28} {crash} {crash}
+| Missed Mention: {29} {the accident} {accident}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">BROWN</COREF>
+| Correct Mention: {14} {Ron Brown}
+| Correct Mention: {16} {Brown}
+| Wrong Mention: {10} {Ron Brown}
+| Wrong Mention: {20} {St. John}
+| Wrong Mention: {22} {Brown}
+| Missed Mention: {5} {BROWN} {BROWN}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">04-06</COREF>
+| Correct Mention: {33} {04-06-96}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">SOMBER FAREWELL</COREF>
+| Wrong Mention: {10} {morning}
+| Missed Mention: {10} {a somber farewell ceremony} {ceremony}
+| Missed Mention: {13} {the ceremony} {ceremony}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">CROATIA</COREF>
+| Correct Mention: {14} {Croatia}
+| Wrong Mention: {13} {Croatia}
+| Wrong Mention: {17} {Croatia}
+| Missed Mention: {10} {Croatia} {Croatia}
+| Missed Mention: {13} {his nation} {nation}
+| Missed Mention: {14} {we} {we}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">U.S. VICTIMS</COREF>
+| Wrong Mention: {22} {victims}
+| Missed Mention: {10} {Commerce Secretary Ron Brown and 32 other Americans} {Ron Brown and 32 other Americans}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">DUBROVNIK</COREF>
+| Correct Mention: {29} {Dubrovnik}
+| Wrong Mention: {26} {Dubrovnik}
+| Missed Mention: {10} {Dubrovnik} {Dubrovnik}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">two C-17 transport planes</COREF>
+| Correct Mention: {27} {planes}
+| Wrong Mention: {11} {two}
+| Wrong Mention: {12} {Two}
+| Wrong Mention: {20} {plane}
+| Wrong Mention: {22} {two}
+| Wrong Mention: {27} {ney}
+| Wrong Mention: {30} {plane}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">Saturday</COREF>
+| Correct Mention: {17} {Saturday}
+| Correct Mention: {28} {Saturday}
+| Correct Mention: {29} {Saturday}
+| Missed Mention: {14} {Today} {Today}
+| Missed Mention: {17} {Easter eve} {eve}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">Two of those who died in the crash</COREF>
+| Wrong Mention: {22} {two}
+| Missed Mention: {12} {Croatian citizens} {citizens}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">President Franjo Tudjman of Croatia</COREF>
+| Correct Mention: {14} {Tudjman}
+| Wrong Mention: {14} {Croatia}
+| Wrong Mention: {17} {Croatia}
+| Missed Mention: {14} {myself} {myself}
+| Missed Mention: {14} {I} {I}
+| Missed Mention: {16} {He} {He}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">U.S.</COREF>
+| Missed Mention: {23} {United States} {United States}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">the families of those who have perished</COREF>
+| Missed Mention: {15} {You} {You}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">the American ambassador to Croatia</COREF>
+| Correct Mention: {18} {ambassador}
+| Wrong Mention: {25} {Americans}
+| Wrong Mention: {28} {American}
+| Missed Mention: {17} {Peter W. Galbraith} {Peter W. Galbraith}
+| Missed Mention: {24} {Galbraith} {Galbraith}
+| Missed Mention: {25} {He} {He}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">the peacemakers</COREF>
+| Missed Mention: {18} {they} {they}
+| Missed Mention: {18} {the children of God} {children of God}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">our friends and colleagues</COREF>
+| Missed Mention: {21} {The 35 passengers on board} {passengers}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X16">The Air Force T-43 plane</COREF>
+| Correct Mention: {30} {plane}
+| Wrong Mention: {27} {planes}
+| Missed Mention: {31} {the aircraft} {aircraft}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X17">a rocky hill named after St. John the Baptist</COREF>
+| Missed Mention: {32} {the steep, rocky hillside} {hillside}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X18">The two Croatians and Brown</COREF>
+| Missed Mention: {22} {the only victims whose bodies have been identified} {victims}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X19">Americans</COREF>
+| Wrong Mention: {28} {American}
+| Missed Mention: {25} {we Americans} {Americans}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X20">The Roman Catholic archbishop of Dubrovnik</COREF>
+| Wrong Mention: {29} {Dubrovnik}
+| Missed Mention: {26} {Zelimir Puljic} {Zelimir Puljic}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X21">American investigators</COREF>
+| Missed Mention: {29} {investigating team} {team}
+--------------------------------------------------
+
+
+#############
+#    a16    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">AIRCRASH</COREF>
+| Missed Mention: {5} {AIRCRASH} {AIRCRASH}
+| Missed Mention: {6} {HELO CRASH} {CRASH}
+| Missed Mention: {12} {The incident} {incident}
+| Missed Mention: {16} {the crash} {crash}
+| Missed Mention: {22} {the incident} {incident}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">CHINA</COREF>
+| Correct Mention: {14} {Mainland}
+| Correct Mention: {16} {China}
+| Correct Mention: {22} {China}
+| Wrong Mention: {6} {TWO DIE IN HELO CRASH OFF CHINA}
+| Wrong Mention: {7} {South China}
+| Wrong Mention: {10} {China}
+| Missed Mention: {5} {CHINA} {CHINA}
+| Missed Mention: {6} {CHINA} {CHINA}
+| Missed Mention: {22} {the country of registration} {country}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">04-09</COREF>
+| Correct Mention: {23} {04-09-96}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">TWO</COREF>
+| Wrong Mention: {8} {Two}
+| Wrong Mention: {13} {Two}
+| Missed Mention: {8} {Two Chinese crew members} {crew members}
+| Missed Mention: {17} {the pilots} {pilots}
+| Missed Mention: {18} {the crew} {crew}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">Macau</COREF>
+| Correct Mention: {9} {Macau}
+| Correct Mention: {15} {Macau}
+| Correct Mention: {17} {Macau}
+| Missed Mention: {13} {Macau} {Macau}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">Tuesday</COREF>
+| Missed Mention: {20} {the time} {time}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">their helicopter</COREF>
+| Correct Mention: {11} {helicopter}
+| Wrong Mention: {10} {Southern Helicopter}
+| Wrong Mention: {13} {helicopters}
+| Wrong Mention: {16} {helicopter}
+| Missed Mention: {10} {aircraft} {aircraft}
+| Missed Mention: {10} {it} {it}
+| Missed Mention: {13} {the Sikorsky 76} {Sikorsky 76}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">Zhuhai</COREF>
+| Correct Mention: {15} {Zhuhai}
+| Correct Mention: {18} {Zhuhai}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">Hong Kong's Civil Aviation Department</COREF>
+| Correct Mention: {12} {Civil Aviation Department}
+| Correct Mention: {22} {Civil Aviation Department}
+| Wrong Mention: {12} {Hong Kong}
+| Wrong Mention: {14} {department}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">a search</COREF>
+| Correct Mention: {13} {search}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">the Chinese island</COREF>
+| Correct Mention: {15} {island}
+| Correct Mention: {16} {island}
+| Missed Mention: {14} {Daiwaishan} {Daiwaishan}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">poor weather</COREF>
+| Missed Mention: {19} {the likely cause of the crash} {cause}
+--------------------------------------------------
+
+
+#############
+#    a17    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">REID</COREF>
+| Correct Mention: {10} {Joe Reid}
+| Correct Mention: {13} {Reid}
+| Correct Mention: {14} {Reid}
+| Correct Mention: {19} {Reid}
+| Correct Mention: {22} {Reid}
+| Correct Mention: {23} {Reid}
+| Wrong Mention: {6} {PILOTS REMEMBER JOE REID}
+| Wrong Mention: {15} {Reid}
+| Missed Mention: {2} {FLIGHT-INSTRUCTOR} {INSTRUCTOR}
+| Missed Mention: {5} {REID} {REID}
+| Missed Mention: {5} {FLIGHT-INSTRUCTOR} {INSTRUCTOR}
+| Missed Mention: {6} {JOE REID, JESSICA'S FLIGHT INSTRUCTOR} {JOE REID}
+| Missed Mention: {6} {JESSICA'S FLIGHT INSTRUCTOR} {FLIGHT INSTRUCTOR}
+| Missed Mention: {10} {he} {he}
+| Missed Mention: {10} {he} {he}
+| Missed Mention: {12} {He} {He}
+| Missed Mention: {12} {a real by-the-book guy} {guy}
+| Missed Mention: {13} {a broker at the Dean Witter Reynolds office in Palo Alto} {broker}
+| Missed Mention: {13} {president of the Half Moon Bay Pilots Association} {president}
+| Missed Mention: {15} {Reid, a Vietnam veteran,} {veteran}
+| Missed Mention: {15} {a Vietnam veteran} {veteran}
+| Missed Mention: {15} {an instructor} {instructor}
+| Missed Mention: {17} {He} {He}
+| Missed Mention: {20} {I} {I}
+| Missed Mention: {20} {I} {I}
+| Missed Mention: {20} {he} {he}
+| Missed Mention: {22} {``an exceptional, competent pilot.''} {pilot}
+| Missed Mention: {24} {He} {He}
+| Missed Mention: {24} {a member of the San Mateo County Airport Land Use Committee} {member}
+| Missed Mention: {24} {chairman of the annual Half Moon Bay Fly-In and Air Show} {chairman}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">04-12</COREF>
+| Correct Mention: {27} {04-12-96}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">HALF MOON BAY</COREF>
+| Correct Mention: {23} {Half Moon Bay}
+| Wrong Mention: {26} {Half Moon Bay}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">the airplane</COREF>
+| Missed Mention: {16} {the plane, a 1975 single-engine Cessna 177B Cardinal,} {plane}
+| Missed Mention: {16} {a 1975 single-engine Cessna 177B Cardinal} {Cessna 177B Cardinal}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">Jessica Dubroff</COREF>
+| Wrong Mention: {10} {he}
+| Missed Mention: {19} {Jessica} {Jessica}
+| Missed Mention: {21} {she} {she}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">flying</COREF>
+| Wrong Mention: {15} {pilot}
+| Wrong Mention: {19} {flight}
+| Missed Mention: {17} {flying} {flying}
+| Missed Mention: {17} {flying} {flying}
+| Missed Mention: {22} {flying} {flying}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">Gary Petersen</COREF>
+| Missed Mention: {11} {manager} {manager}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">George Auld</COREF>
+| Correct Mention: {14} {he}
+| Correct Mention: {17} {Auld}
+| Missed Mention: {14} {a longtime friend} {friend}
+| Missed Mention: {15} {He} {He}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">He and his wife</COREF>
+| Missed Mention: {25} {active parishioners} {parishioners}
+| Missed Mention: {26} {They} {They}
+--------------------------------------------------
+
+
+#############
+#    b11    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">BAYERISCHE MOTOREN WERKE AG</COREF>
+| Wrong Mention: {16} {V ALLGEMEINE VERSICHERUNGS AG}
+| Wrong Mention: {18} {LINDE AG}
+| Missed Mention: {11} {BMW} {BMW}
+| Missed Mention: {12} {The auto maker} {maker}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">1987</COREF>
+| Missed Mention: {12} {1987} {1987}
+| Missed Mention: {13} {1987} {1987}
+| Missed Mention: {18} {1987} {1987}
+| Missed Mention: {19} {this year} {year}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">a year earlier</COREF>
+| Correct Mention: {18} {year}
+| Wrong Mention: {19} {year}
+| Wrong Mention: {20} {year}
+| Missed Mention: {12} {1986} {1986}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">group sales</COREF>
+| Correct Mention: {18} {sales}
+| Wrong Mention: {15} {group}
+| Wrong Mention: {16} {group}
+| Wrong Mention: {18} {group}
+| Wrong Mention: {22} {group}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">the long-term debt</COREF>
+| Wrong Mention: {14} {debt}
+| Missed Mention: {14} {about $1.2 billion of debt} {billion}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">DEN NORSKE CREDITBANK</COREF>
+| Missed Mention: {13} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">review for possible downgrading</COREF>
+| Correct Mention: {14} {review}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">DEUTSCHE GENOSSENSCHAFTS BANK</COREF>
+| Wrong Mention: {16} {concern}
+| Wrong Mention: {17} {company}
+| Wrong Mention: {22} {concern}
+| Missed Mention: {15} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">the trade union-owned insurance group VOLKSFUERSORGE</COREF>
+| Correct Mention: {16} {Volksfuersorge}
+| Wrong Mention: {17} {Volksfuersorge}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">an insurance concern it controls</COREF>
+| Wrong Mention: {16} {concern}
+| Wrong Mention: {22} {concern}
+| Missed Mention: {16} {the insurance group R@amp;V ALLGEMEINE VERSICHERUNGS AG} {group}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">the trade-union holding company</COREF>
+| Missed Mention: {17} {it} {it}
+| Missed Mention: {17} {Volksfuersorge} {Volksfuersorge}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">NATIONALE NEDERLANDEN N.V.</COREF>
+| Missed Mention: {21} {it} {it}
+| Missed Mention: {22} {The Netherlands' biggest insurance group} {group}
+| Missed Mention: {22} {the Dutch concern} {concern}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">MIDWESTERN UNITED LIFE INSURANCE CO., one of its U.S. subsidiaries,</COREF>
+| Correct Mention: {22} {Midwestern United}
+| Wrong Mention: {22} {one}
+| Wrong Mention: {22} {U.S.}
+| Wrong Mention: {22} {subsidiaries}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">Ireland's largest insurer, </COREF>
+| Missed Mention: {21} {IRISH LIFE PLC} {PLC}
+--------------------------------------------------
+
+
+#############
+#    b12    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Communications Satellite Corp.</COREF>
+| Correct Mention: {7} {Communications Satellite Corp.}
+| Wrong Mention: {8} {satellite}
+| Missed Mention: {7} {it} {it}
+| Missed Mention: {8} {Comsat} {Comsat}
+| Missed Mention: {9} {Comsat} {Comsat}
+| Missed Mention: {9} {Comsat} {Comsat}
+| Missed Mention: {10} {Comsat} {Comsat}
+| Missed Mention: {11} {Comsat} {Comsat}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">the reductions</COREF>
+| Correct Mention: {10} {reductions}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">American Telephone @amp; Telegraph Co.</COREF>
+| Wrong Mention: {9} {amp}
+| Wrong Mention: {9} {AT @}
+| Wrong Mention: {10} {amp}
+| Wrong Mention: {10} {AT @}
+| Missed Mention: {9} {AT@amp;T} {AT@amp;T}
+| Missed Mention: {10} {AT@amp;T} {AT@amp;T}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">two new types of digital satellite services</COREF>
+| Correct Mention: {10} {service}
+| Correct Mention: {11} {service}
+| Wrong Mention: {11} {Digital}
+--------------------------------------------------
+
+
+#############
+#    b13    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Pan Am</COREF>
+| Missed Mention: {6} {Pan Am Corp.} {Corp.}
+| Missed Mention: {10} {Pan Am} {Pan Am}
+| Missed Mention: {11} {Pan Am} {Pan Am}
+| Missed Mention: {12} {Pan Am} {Pan Am}
+| Missed Mention: {12} {it} {it}
+| Missed Mention: {14} {Pan Am} {Pan Am}
+| Missed Mention: {20} {Pan Am} {Pan Am}
+| Missed Mention: {21} {the company} {company}
+| Missed Mention: {22} {Pan Am} {Pan Am}
+| Missed Mention: {25} {Pan Am} {Pan Am}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Teamsters</COREF>
+| Correct Mention: {6} {Teamsters}
+| Correct Mention: {18} {Teamsters}
+| Correct Mention: {20} {Teamsters}
+| Correct Mention: {26} {Teamsters}
+| Correct Mention: {30} {Teamsters}
+| Wrong Mention: {8} {Teamsters}
+| Wrong Mention: {13} {Teamsters}
+| Wrong Mention: {17} {Teamsters}
+| Missed Mention: {7} {the Teamsters} {Teamsters}
+| Missed Mention: {13} {the Teamsters union} {union}
+| Missed Mention: {13} {it} {it}
+| Missed Mention: {21} {we} {we}
+| Missed Mention: {22} {We} {We}
+| Missed Mention: {23} {We} {We}
+| Missed Mention: {24} {The union} {union}
+| Missed Mention: {24} {it} {it}
+| Missed Mention: {27} {the union} {union}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Contract Talks</COREF>
+| Wrong Mention: {6} {contract}
+| Wrong Mention: {26} {contract}
+| Missed Mention: {6} {their long-stalled contract negotiations} {negotiations}
+| Missed Mention: {8} {negotiations} {negotiations}
+| Missed Mention: {10} {the talks} {talks}
+| Missed Mention: {18} {their talks with the company} {talks}
+| Missed Mention: {20} {the negotiations} {negotations}
+| Missed Mention: {27} {the negotiations} {negotations}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">The National Mediation Board</COREF>
+| Correct Mention: {9} {board}
+| Correct Mention: {10} {National Mediation Board}
+| Correct Mention: {11} {board}
+| Correct Mention: {27} {board}
+| Wrong Mention: {8} {board}
+| Missed Mention: {11} {the board} {board}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">a wage-concession agreement</COREF>
+| Correct Mention: {13} {agreement}
+| Correct Mention: {17} {agreement}
+| Wrong Mention: {16} {agreement}
+| Wrong Mention: {28} {agreement}
+| Wrong Mention: {29} {agreement}
+| Wrong Mention: {30} {agreement}
+| Missed Mention: {13} {the agreement} {agreement}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">both sides</COREF>
+| Missed Mention: {8} {the parties} {parties}
+| Missed Mention: {9} {both parties} {parties}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">arbitration</COREF>
+| Correct Mention: {9} {arbitration}
+| Correct Mention: {24} {arbitration}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">William Genoese</COREF>
+| Correct Mention: {8} {he}
+| Correct Mention: {18} {Mr. Genoese}
+| Correct Mention: {19} {Mr. Genoese}
+| Correct Mention: {21} {Mr. Genoese}
+| Missed Mention: {8} {head of the airline division of the International Brotherhood of Teamsters} {head}
+| Missed Mention: {8} {he} {he}
+| Missed Mention: {18} {he} {he}
+| Missed Mention: {19} {he} {he}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">today</COREF>
+| Correct Mention: {28} {today}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">changes in senior management</COREF>
+| Correct Mention: {14} {change}
+| Wrong Mention: {14} {management}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">a coalition of four of Pan Am's five unions</COREF>
+| Correct Mention: {14} {coalition}
+| Wrong Mention: {16} {union}
+| Wrong Mention: {24} {union}
+| Wrong Mention: {27} {union}
+| Wrong Mention: {28} {union}
+| Wrong Mention: {30} {union}
+| Missed Mention: {13} {that coalition} {coalition}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">William T. Coleman</COREF>
+| Wrong Mention: {18} {Mr. Coleman}
+| Wrong Mention: {19} {Mr. Coleman}
+| Wrong Mention: {20} {Mr. Coleman}
+| Missed Mention: {15} {a Pan Am director} {director}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">tomorrow</COREF>
+| Missed Mention: {16} {the deadline} {deadline}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">Mr. Coleman</COREF>
+| Correct Mention: {20} {Mr. Coleman}
+| Wrong Mention: {18} {he}
+| Wrong Mention: {19} {he}
+| Wrong Mention: {19} {Mr. Coleman}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">a "cordial" initial meeting with Mr. Coleman last Thursday</COREF>
+| Correct Mention: {20} {meeting}
+| Wrong Mention: {19} {he}
+| Wrong Mention: {20} {Mr. Coleman}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">Pan Am's pilots union</COREF>
+| Wrong Mention: {29} {pilot}
+| Wrong Mention: {30} {union}
+| Missed Mention: {28} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X16">an agreement to deliver concessions to the company</COREF>
+| Correct Mention: {29} {agreement}
+| Correct Mention: {30} {agreement}
+| Wrong Mention: {30} {company}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X17">A pilot's union spokesman</COREF>
+| Wrong Mention: {30} {union}
+| Missed Mention: {30} {He} {He}
+| Missed Mention: {30} {he} {he}
+--------------------------------------------------
+
+
+#############
+#    b14    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Rise in Labor Costs, Wage Agreements</COREF>
+| Wrong Mention: {3} {LABOR}
+| Wrong Mention: {6} {wage}
+| Wrong Mention: {6} {labor}
+| Wrong Mention: {11} {wage}
+| Wrong Mention: {12} {rises}
+| Wrong Mention: {12} {wage}
+| Wrong Mention: {13} {wage}
+| Wrong Mention: {17} {wages}
+| Wrong Mention: {17} {wage}
+| Wrong Mention: {18} {labor}
+| Wrong Mention: {19} {wage}
+| Missed Mention: {6} {The rise in labor costs and wage settlements} {wage settlements}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">'87</COREF>
+| Missed Mention: {6} {last year} {year}
+| Missed Mention: {7} {last year} {year}
+| Missed Mention: {11} {the first time} {time}
+| Missed Mention: {12} {last year} {year}
+| Missed Mention: {18} {last year} {year}
+| Missed Mention: {20} {1987} {1987}
+| Missed Mention: {21} {last year} {year}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">the Labor Department</COREF>
+| Correct Mention: {7} {department}
+| Correct Mention: {10} {department}
+| Correct Mention: {12} {Labor Department}
+| Correct Mention: {16} {department}
+| Wrong Mention: {13} {Department}
+| Wrong Mention: {18} {labor}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Total compensation costs in private industry, including pay and benefits,</COREF>
+| Correct Mention: {8} {costs}
+| Wrong Mention: {10} {industries}
+| Wrong Mention: {10} {pay}
+| Wrong Mention: {12} {pay}
+| Wrong Mention: {14} {compensation}
+| Wrong Mention: {15} {benefits}
+| Wrong Mention: {15} {pay}
+| Wrong Mention: {19} {industry}
+| Wrong Mention: {21} {industries}
+| Missed Mention: {8} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">1986</COREF>
+| Missed Mention: {12} {1986} {1986}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">9.8%, </COREF>
+| Missed Mention: {8} {the same as in 1980} {same}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">collective bargaining agreements reached last year</COREF>
+| Correct Mention: {22} {agreements}
+| Wrong Mention: {10} {last}
+| Wrong Mention: {11} {agreements}
+| Wrong Mention: {11} {bargaining}
+| Wrong Mention: {12} {year}
+| Wrong Mention: {12} {years}
+| Wrong Mention: {12} {agreements}
+| Wrong Mention: {13} {year}
+| Wrong Mention: {16} {agreements}
+| Wrong Mention: {16} {bargaining}
+| Wrong Mention: {18} {year}
+| Wrong Mention: {20} {year}
+| Wrong Mention: {21} {year}
+| Wrong Mention: {22} {year}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">an average 2.2% wage increase in the first year of the contract</COREF>
+| Correct Mention: {13} {increases}
+| Wrong Mention: {10} {contract}
+| Wrong Mention: {11} {wage}
+| Wrong Mention: {11} {contract}
+| Wrong Mention: {12} {wage}
+| Wrong Mention: {12} {increases}
+| Wrong Mention: {12} {1.2}
+| Wrong Mention: {12} {1.8}
+| Wrong Mention: {12} {increase}
+| Wrong Mention: {12} {years}
+| Wrong Mention: {12} {year}
+| Wrong Mention: {12} {%}
+| Wrong Mention: {13} {year}
+| Wrong Mention: {13} {wage}
+| Wrong Mention: {14} {increases}
+| Wrong Mention: {16} {contract}
+| Wrong Mention: {16} {increase}
+| Wrong Mention: {17} {wages}
+| Wrong Mention: {17} {wage}
+| Wrong Mention: {17} {increases}
+| Wrong Mention: {18} {year}
+| Wrong Mention: {18} {contracts}
+| Wrong Mention: {19} {wage}
+| Wrong Mention: {20} {increases}
+| Wrong Mention: {20} {3.1}
+| Wrong Mention: {20} {year}
+| Wrong Mention: {20} {2.9}
+| Wrong Mention: {20} {%}
+| Wrong Mention: {21} {increases}
+| Wrong Mention: {21} {2.1}
+| Wrong Mention: {21} {year}
+| Wrong Mention: {21} {1.9}
+| Wrong Mention: {21} {%}
+| Wrong Mention: {22} {year}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">the life of the pact</COREF>
+| Correct Mention: {12} {life}
+| Wrong Mention: {20} {pacts}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">pay</COREF>
+| Correct Mention: {12} {wage}
+| Correct Mention: {12} {pay}
+| Correct Mention: {17} {wages}
+| Correct Mention: {17} {wage}
+| Correct Mention: {19} {wage}
+| Wrong Mention: {11} {time}
+| Wrong Mention: {11} {wage}
+| Wrong Mention: {13} {wage}
+| Wrong Mention: {15} {pay}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">Officials</COREF>
+| Correct Mention: {13} {officials}
+| Correct Mention: {14} {officials}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">labor</COREF>
+| Correct Mention: {18} {labor}
+| Wrong Mention: {16} {department}
+| Missed Mention: {15} {labor} {labor}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">lump-sum payments, which are one-time payments often made upon a contract's ratification</COREF>
+| Correct Mention: {17} {payments}
+| Correct Mention: {18} {payments}
+| Wrong Mention: {18} {contracts}
+| Missed Mention: {17} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">construction industry</COREF>
+| Correct Mention: {20} {Construction}
+| Wrong Mention: {21} {industries}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">the first contract year</COREF>
+| Correct Mention: {21} {year}
+| Wrong Mention: {22} {year}
+--------------------------------------------------
+
+
+#############
+#    b15    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Northwest Attendants</COREF>
+| Wrong Mention: {6} {Northwest}
+| Wrong Mention: {7} {Northwest}
+| Wrong Mention: {8} {Northwest}
+| Wrong Mention: {11} {Northwest}
+| Wrong Mention: {12} {Northwest}
+| Missed Mention: {5} {The Northwest Airlines flight attendants union} {union}
+| Missed Mention: {6} {the union} {union}
+| Missed Mention: {6} {the attendants} {attendants}
+| Missed Mention: {7} {Union} {Union}
+| Missed Mention: {8} {The union, a Teamsters chapter} {union}
+| Missed Mention: {8} {a Teamsters chapter} {chapter}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Airline</COREF>
+| Wrong Mention: {3} {AIR}
+| Wrong Mention: {5} {Northwest Airlines}
+| Missed Mention: {5} {the NWA Inc. unit} {unit}
+| Missed Mention: {6} {Northwest} {Northwest}
+| Missed Mention: {7} {Northwest} {Northwest}
+| Missed Mention: {7} {Northwest} {Northwest}
+| Missed Mention: {13} {We} {We}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">strike</COREF>
+| Correct Mention: {7} {strike}
+| Correct Mention: {9} {walkout}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Easter</COREF>
+| Missed Mention: {12} {holiday} {holiday}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">leaders of the unions representing Northwest pilots and machinists</COREF>
+| Correct Mention: {10} {leaders}
+| Wrong Mention: {9} {unions}
+| Wrong Mention: {10} {union}
+| Wrong Mention: {10} {Air Line Pilots}
+| Wrong Mention: {11} {Northwest}
+| Wrong Mention: {11} {union}
+| Wrong Mention: {11} {machinists}
+| Wrong Mention: {12} {union}
+| Wrong Mention: {12} {Northwest}
+| Wrong Mention: {14} {union}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">strategy meeting</COREF>
+| Correct Mention: {10} {meeting}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">The Teamsters</COREF>
+| Missed Mention: {13} {they} {they}
+| Missed Mention: {13} {they} {they}
+| Missed Mention: {13} {themselves} {themselves}
+| Missed Mention: {14} {The attendants union} {union}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">machinists</COREF>
+| Missed Mention: {11} {Northwest's largest union} {union}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">A Northwest spokesman</COREF>
+| Missed Mention: {13} {he} {he}
+--------------------------------------------------
+
+
+#############
+#    b16    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Chrysler</COREF>
+| Correct Mention: {7} {Chrysler}
+| Correct Mention: {17} {Chrysler}
+| Correct Mention: {29} {Chrysler}
+| Correct Mention: {30} {Chrysler}
+| Wrong Mention: {15} {Chrysler}
+| Wrong Mention: {23} {Chrysler}
+| Missed Mention: {6} {Chrysler Corp.} {Chrysler Corp.}
+| Missed Mention: {7} {We} {We}
+| Missed Mention: {12} {the company} {company}
+| Missed Mention: {16} {The auto maker} {maker}
+| Missed Mention: {23} {the company} {company}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Grievance Process For Non-Union Staff</COREF>
+| Correct Mention: {14} {process}
+| Correct Mention: {32} {process}
+| Wrong Mention: {2} {WSJ Staff}
+| Wrong Mention: {6} {non-union}
+| Missed Mention: {6} {a formal grievance procedure} {procedure}
+| Missed Mention: {12} {an "alternative disputes resolution" system} {system}
+| Missed Mention: {13} {a formal and impartial internal mechanism} {mechanism}
+| Missed Mention: {20} {a formal grievance procedure with third-party arbitration} {procedure}
+| Missed Mention: {20} {a policy} {policy}
+| Missed Mention: {21} {It} {It}
+| Missed Mention: {23} {arbitration for nonunion employees} {arbitration}
+| Missed Mention: {29} {its system} {system}
+| Missed Mention: {31} {the policy} {policy}
+| Missed Mention: {32} {It} {It}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">ROCHESTER, Mich.</COREF>
+| Missed Mention: {10} {here} {here}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Anthony P. St. John</COREF>
+| Correct Mention: {12} {Mr. St. John}
+| Correct Mention: {13} {Mr. St. John}
+| Wrong Mention: {31} {Mr. St. John}
+| Missed Mention: {10} {vice president for human resources} {president}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">Employees</COREF>
+| Wrong Mention: {12} {company}
+| Wrong Mention: {13} {employees}
+| Wrong Mention: {15} {companies}
+| Wrong Mention: {17} {employees}
+| Wrong Mention: {18} {workers}
+| Wrong Mention: {18} {United Auto Workers}
+| Wrong Mention: {20} {company}
+| Wrong Mention: {20} {employees}
+| Wrong Mention: {21} {office}
+| Wrong Mention: {23} {companies}
+| Wrong Mention: {23} {company}
+| Wrong Mention: {23} {employees}
+| Wrong Mention: {24} {employee}
+| Wrong Mention: {28} {employee}
+| Wrong Mention: {31} {employees}
+| Wrong Mention: {32} {workers}
+| Missed Mention: {11} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">these employees</COREF>
+| Correct Mention: {17} {employees}
+| Wrong Mention: {20} {employees}
+| Wrong Mention: {23} {employees}
+| Wrong Mention: {24} {employee}
+| Wrong Mention: {28} {employee}
+| Wrong Mention: {31} {employees}
+| Missed Mention: {19} {the white-collar ranks} {ranks}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">Chrysler's move</COREF>
+| Correct Mention: {19} {move}
+| Wrong Mention: {17} {Chrysler}
+| Wrong Mention: {23} {Chrysler}
+| Wrong Mention: {29} {Chrysler}
+| Wrong Mention: {30} {Chrysler}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">United Auto Workers</COREF>
+| Missed Mention: {32} {UAW} {UAW}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">Several management consultants</COREF>
+| Wrong Mention: {27} {management}
+| Wrong Mention: {31} {management}
+| Missed Mention: {20} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">Jerrold Bratkovich</COREF>
+| Missed Mention: {21} {a vice president} {vice president}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">A Chrysler spokesman</COREF>
+| Wrong Mention: {27} {spokesman}
+| Wrong Mention: {28} {spokesman}
+| Wrong Mention: {29} {Chrysler}
+| Wrong Mention: {30} {Chrysler}
+| Missed Mention: {23} {he} {he}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">International Business Machines Corp.</COREF>
+| Missed Mention: {28} {IBM} {IBM}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">an IBM spokesman</COREF>
+| Correct Mention: {28} {spokesman}
+| Wrong Mention: {28} {IBM}
+--------------------------------------------------
+
+
+#############
+#    b17    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Reagan</COREF>
+| Correct Mention: {6} {Reagan}
+| Correct Mention: {7} {Mr. Reagan}
+| Correct Mention: {9} {Mr. Reagan}
+| Correct Mention: {11} {Mr. Reagan}
+| Wrong Mention: {6} {President}
+| Wrong Mention: {8} {Mr. Reagan}
+| Missed Mention: {1} {He} {He}
+| Missed Mention: {6} {he} {he}
+| Missed Mention: {9} {he} {he}
+| Missed Mention: {10} {he} {he}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">An Arms Pact</COREF>
+| Missed Mention: {6} {a strategic arms agreement} {agreement}
+| Missed Mention: {7} {a strategic arms reduction, or START, treaty} {treaty}
+| Missed Mention: {8} {a treaty} {treaty}
+| Missed Mention: {10} {a START treaty} {treaty}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Summit</COREF>
+| Correct Mention: {6} {summit}
+| Correct Mention: {9} {summit}
+| Correct Mention: {10} {summit}
+| Wrong Mention: {9} {meeting}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">CHICAGO</COREF>
+| Missed Mention: {7} {here} {here}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">Soviet leader Mikhail Gorbachev</COREF>
+| Correct Mention: {9} {Mr. Gorbachev}
+| Wrong Mention: {6} {he}
+| Wrong Mention: {11} {Soviet}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">an agreement eliminating intermediate-range nuclear missiles, signed at a summit meeting in Washington last December</COREF>
+| Wrong Mention: {10} {Washington}
+| Wrong Mention: {10} {summit}
+| Missed Mention: {10} {the other one at the Washington summit} {one}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">Our</COREF>
+| Missed Mention: {10} {we} {we}
+| Missed Mention: {10} {we} {we}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">such a treaty</COREF>
+| Missed Mention: {11} {it} {it}
+--------------------------------------------------
+
+
+#############
+#    b18    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">U.S. Mediator</COREF>
+| Correct Mention: {5} {mediator}
+| Wrong Mention: {18} {mediator}
+| Wrong Mention: {18} {U.S.}
+| Missed Mention: {6} {Harry Bickford,} {Harry Bickford}
+| Missed Mention: {7} {he} {he}
+| Missed Mention: {10} {Mr. Bickford} {Bickford}
+| Missed Mention: {11} {I} {I}
+| Missed Mention: {11} {Mr. Bickford, an 18-year mediation veteran} {Bickford}
+| Missed Mention: {13} {I} {I}
+| Missed Mention: {14} {Mr. Bickford} {Bickford}
+| Missed Mention: {15} {Mr. Bickford} {Bickford}
+| Missed Mention: {25} {Mr. Bickford} {Bickford}
+| Missed Mention: {30} {Mr. Bickford} {Bickford}
+| Missed Mention: {30} {he} {he}
+| Missed Mention: {30} {he} {he}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Eastern Negotiations</COREF>
+| Wrong Mention: {9} {Eastern}
+| Wrong Mention: {17} {Eastern}
+| Wrong Mention: {19} {Eastern}
+| Wrong Mention: {21} {Eastern}
+| Wrong Mention: {22} {Eastern}
+| Wrong Mention: {23} {Eastern}
+| Wrong Mention: {24} {Eastern}
+| Wrong Mention: {26} {Eastern}
+| Wrong Mention: {27} {Eastern}
+| Wrong Mention: {28} {Eastern}
+| Wrong Mention: {30} {Eastern}
+| Missed Mention: {5} {the talks} {talks}
+| Missed Mention: {8} {the high-stakes, 16-month confrontation over labor costs} {confrontation}
+| Missed Mention: {17} {the talks} {talks}
+| Missed Mention: {25} {talks} {talks}
+| Missed Mention: {28} {the talks} {talks}
+| Missed Mention: {30} {the talks} {talks}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">negotiators in the bitter labor battle at Eastern Airlines</COREF>
+| Wrong Mention: {8} {labor}
+| Wrong Mention: {9} {Eastern}
+| Wrong Mention: {17} {Eastern}
+| Wrong Mention: {19} {Eastern}
+| Wrong Mention: {21} {Eastern}
+| Wrong Mention: {22} {Eastern}
+| Wrong Mention: {23} {Eastern}
+| Wrong Mention: {24} {Eastern}
+| Wrong Mention: {26} {Eastern}
+| Wrong Mention: {27} {Eastern}
+| Wrong Mention: {28} {Eastern}
+| Wrong Mention: {30} {Eastern}
+| Missed Mention: {6} {representatives} {representatives}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">We</COREF>
+| Missed Mention: {7} {we} {we}
+| Missed Mention: {14} {"We} {We}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">Eastern, a unit of Texas Air Corp.,</COREF>
+| Correct Mention: {17} {Eastern}
+| Correct Mention: {22} {Eastern}
+| Correct Mention: {23} {Eastern}
+| Correct Mention: {24} {Eastern}
+| Correct Mention: {26} {Eastern}
+| Correct Mention: {27} {Eastern}
+| Correct Mention: {28} {Eastern}
+| Wrong Mention: {19} {Eastern}
+| Wrong Mention: {21} {Eastern}
+| Wrong Mention: {26} {Texas Air}
+| Wrong Mention: {27} {Texas Air}
+| Wrong Mention: {28} {Texas Air}
+| Wrong Mention: {29} {Texas Air}
+| Wrong Mention: {30} {Eastern}
+| Missed Mention: {9} {the ailing carrier} {carrier}
+| Missed Mention: {9} {it} {it}
+| Missed Mention: {24} {the airline} {airline}
+| Missed Mention: {26} {the airline} {airline}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">steep wage cuts from its roughly 10,000 machinists and baggage handlers</COREF>
+| Wrong Mention: {21} {machinists}
+| Wrong Mention: {23} {Machinists}
+| Wrong Mention: {27} {Machinist}
+| Missed Mention: {9} {the cost concessions} {concessions}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">the bargaining table</COREF>
+| Correct Mention: {16} {table}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">that</COREF>
+| Missed Mention: {12} {it} {it}
+| Missed Mention: {13} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">the mediation process</COREF>
+| Correct Mention: {16} {mediation}
+| Wrong Mention: {21} {mediation}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">Florida Gov. Bob Martinez</COREF>
+| Correct Mention: {29} {Martinez}
+| Wrong Mention: {29} {Gov}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">the National Mediation Board</COREF>
+| Correct Mention: {28} {National Mediation Board}
+| Wrong Mention: {21} {mediation}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">management</COREF>
+| Correct Mention: {23} {management}
+| Wrong Mention: {18} {management}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">an agreement on a wage-concession package</COREF>
+| Missed Mention: {19} {a negotiated settlement} {settlement}
+| Missed Mention: {21} {A settlement through mediation} {settlement}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">I</COREF>
+| Missed Mention: {19} {Phil Bakes, president and chief executive officer of Eastern,} {Phil Bakes}
+| Missed Mention: {19} {president} {president}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">The union</COREF>
+| Correct Mention: {23} {union}
+| Correct Mention: {29} {union}
+| Wrong Mention: {21} {union}
+| Wrong Mention: {23} {unions}
+| Wrong Mention: {26} {union}
+| Wrong Mention: {27} {unions}
+| Missed Mention: {20} {it} {it}
+| Missed Mention: {27} {Machinist} {Machinist}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">Charles Bryan, </COREF>
+| Correct Mention: {22} {he}
+| Missed Mention: {21} {head of the machinists' union at Eastern} {head}
+| Missed Mention: {22} {I} {I}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X16">a strike</COREF>
+| Correct Mention: {23} {strike}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X17">the pilot</COREF>
+| Wrong Mention: {27} {pilot}
+| Missed Mention: {27} {pilot unions} {unions}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X18">Frank Borman, </COREF>
+| Missed Mention: {26} {the former astronaut} {astronaut}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X19">Texas Air</COREF>
+| Correct Mention: {28} {Texas Air}
+| Correct Mention: {29} {Texas Air}
+| Wrong Mention: {27} {Texas Air}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X20">union</COREF>
+| Wrong Mention: {27} {unions}
+| Wrong Mention: {29} {union}
+| Missed Mention: {27} {them} {them}
+--------------------------------------------------
+
+
+#############
+#    b19    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Early Aluminum Talks</COREF>
+| Wrong Mention: {5} {aluminum}
+| Wrong Mention: {12} {Aluminum}
+| Missed Mention: {5} {early contract talks} {talks}
+| Missed Mention: {6} {the early bargaining} {bargaining}
+| Missed Mention: {11} {the early talks} {talks}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Steel Union</COREF>
+| Correct Mention: {5} {union}
+| Wrong Mention: {8} {union}
+| Wrong Mention: {9} {union}
+| Wrong Mention: {12} {union}
+| Wrong Mention: {13} {unions}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">2 Firms</COREF>
+| Missed Mention: {5} {the nation's two biggest aluminum makers} {makers}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">ST. LOUIS</COREF>
+| Missed Mention: {6} {here} {here}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">1986</COREF>
+| Missed Mention: {8} {1986} {1986}
+| Missed Mention: {9} {then} {then}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">The current pacts with Aluminum Co. of America and Reynolds Metals Co.</COREF>
+| Wrong Mention: {11} {Reynolds}
+| Wrong Mention: {12} {Aluminum}
+| Wrong Mention: {13} {Reynolds}
+| Missed Mention: {8} {the current contracts} {contracts}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">our members</COREF>
+| Correct Mention: {9} {members}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">sacrifices to help the companies over hard times</COREF>
+| Correct Mention: {9} {sacrifices}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">George Becker, </COREF>
+| Missed Mention: {8} {the union's chief negotiator} {negotiator}
+| Missed Mention: {9} {Mr. Becker} {Becker}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">a strong recovery</COREF>
+| Missed Mention: {9} {those gains} {gains}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">Pittsburgh-based Alcoa</COREF>
+| Correct Mention: {13} {Alcoa}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">Reynolds, Richmond, Va.,</COREF>
+| Correct Mention: {13} {Reynolds}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">union</COREF>
+| Wrong Mention: {13} {unions}
+| Missed Mention: {12} {the Steelworkers} {Steelworkers}
+--------------------------------------------------
+
+
+#############
+#    b20    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">OPEC</COREF>
+| Correct Mention: {12} {OPEC}
+| Correct Mention: {14} {OPEC}
+| Correct Mention: {17} {OPEC}
+| Correct Mention: {19} {OPEC}
+| Correct Mention: {22} {OPEC}
+| Correct Mention: {25} {OPEC}
+| Wrong Mention: {5} {Organization}
+| Wrong Mention: {6} {OPEC}
+| Wrong Mention: {7} {OPEC}
+| Wrong Mention: {9} {OPEC}
+| Wrong Mention: {10} {OPEC}
+| Wrong Mention: {11} {OPEC}
+| Wrong Mention: {18} {OPEC}
+| Wrong Mention: {20} {OPEC}
+| Wrong Mention: {21} {OPEC}
+| Wrong Mention: {23} {OPEC}
+| Wrong Mention: {24} {OPEC}
+| Wrong Mention: {26} {OPEC}
+| Missed Mention: {5} {The Organization of Petroleum Exporting Countries} {Countries}
+| Missed Mention: {7} {the cartel} {cartel}
+| Missed Mention: {19} {the system} {system}
+| Missed Mention: {19} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">a Price War</COREF>
+| Correct Mention: {5} {war}
+| Wrong Mention: {6} {price}
+| Wrong Mention: {19} {war}
+| Wrong Mention: {20} {prices}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Output</COREF>
+| Correct Mention: {6} {output}
+| Correct Mention: {18} {output}
+| Correct Mention: {23} {output}
+| Correct Mention: {24} {output}
+| Wrong Mention: {6} {production}
+| Wrong Mention: {7} {output}
+| Wrong Mention: {14} {production}
+| Wrong Mention: {15} {production}
+| Wrong Mention: {16} {output}
+| Wrong Mention: {24} {production}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Quota Violator</COREF>
+| Correct Mention: {7} {violator}
+| Wrong Mention: {11} {quota}
+| Wrong Mention: {14} {quota}
+| Wrong Mention: {17} {quota}
+| Missed Mention: {7} {the United Arab Emirates, OPEC's most notable quota violator,} {United Arab Emirates}
+| Missed Mention: {8} {The Emirates} {Emirates}
+| Missed Mention: {11} {the Emirates} {Emirates}
+| Missed Mention: {12} {his country} {country}
+| Missed Mention: {14} {the Emirates} {Emirates}
+| Missed Mention: {19} {the UAE} {UAE}
+| Missed Mention: {20} {the Emirates} {Emirates}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">price</COREF>
+| Correct Mention: {20} {prices}
+| Wrong Mention: {12} {support}
+| Wrong Mention: {13} {level}
+| Missed Mention: {20} {price} {price}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">a sharp rise in OPEC production</COREF>
+| Wrong Mention: {7} {OPEC}
+| Wrong Mention: {9} {OPEC}
+| Wrong Mention: {10} {OPEC}
+| Wrong Mention: {11} {OPEC}
+| Wrong Mention: {12} {OPEC}
+| Wrong Mention: {14} {OPEC}
+| Wrong Mention: {14} {production}
+| Wrong Mention: {15} {production}
+| Wrong Mention: {17} {OPEC}
+| Wrong Mention: {18} {OPEC}
+| Wrong Mention: {19} {OPEC}
+| Wrong Mention: {20} {OPEC}
+| Wrong Mention: {21} {OPEC}
+| Wrong Mention: {22} {OPEC}
+| Wrong Mention: {23} {OPEC}
+| Wrong Mention: {24} {OPEC}
+| Wrong Mention: {24} {production}
+| Wrong Mention: {25} {OPEC}
+| Wrong Mention: {26} {OPEC}
+| Missed Mention: {23} {the recent run-up} {run-up}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">a day</COREF>
+| Correct Mention: {15} {day}
+| Wrong Mention: {11} {day}
+| Wrong Mention: {24} {day}
+| Wrong Mention: {26} {day}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">20 million barrels a day early this month</COREF>
+| Correct Mention: {24} {barrels}
+| Wrong Mention: {7} {barrels}
+| Wrong Mention: {11} {barrels}
+| Wrong Mention: {11} {day}
+| Wrong Mention: {15} {barrels}
+| Wrong Mention: {15} {day}
+| Wrong Mention: {15} {million}
+| Wrong Mention: {17} {month}
+| Wrong Mention: {24} {day}
+| Wrong Mention: {24} {month}
+| Wrong Mention: {26} {barrels}
+| Wrong Mention: {26} {day}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">its own output</COREF>
+| Wrong Mention: {16} {output}
+| Wrong Mention: {18} {output}
+| Wrong Mention: {23} {output}
+| Wrong Mention: {24} {output}
+| Missed Mention: {13} {the Emirates' production level} {level}
+| Missed Mention: {14} {current production} {production}
+| Missed Mention: {15} {the Emirates' current production} {production}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">a targeted 1.5 million barrels a day</COREF>
+| Wrong Mention: {11} {barrels}
+| Wrong Mention: {11} {day}
+| Wrong Mention: {15} {barrels}
+| Wrong Mention: {15} {day}
+| Wrong Mention: {15} {million}
+| Wrong Mention: {24} {barrels}
+| Wrong Mention: {24} {day}
+| Wrong Mention: {26} {barrels}
+| Wrong Mention: {26} {day}
+| Missed Mention: {14} {the target} {target}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">Saudi Arabia</COREF>
+| Correct Mention: {23} {Saudi Arabia}
+| Missed Mention: {23} {the cartel's biggest producer} {producer}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">its government</COREF>
+| Correct Mention: {14} {government}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">conciliatory gestures to OPEC</COREF>
+| Wrong Mention: {10} {OPEC}
+| Wrong Mention: {11} {OPEC}
+| Wrong Mention: {12} {OPEC}
+| Wrong Mention: {14} {OPEC}
+| Wrong Mention: {17} {OPEC}
+| Wrong Mention: {18} {OPEC}
+| Wrong Mention: {19} {OPEC}
+| Wrong Mention: {20} {OPEC}
+| Wrong Mention: {21} {OPEC}
+| Wrong Mention: {22} {OPEC}
+| Wrong Mention: {23} {OPEC}
+| Wrong Mention: {24} {OPEC}
+| Wrong Mention: {25} {OPEC}
+| Wrong Mention: {26} {OPEC}
+| Missed Mention: {10} {The gestures} {gestures}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">yesterday</COREF>
+| Correct Mention: {14} {yesterday}
+| Correct Mention: {21} {yesterday}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">Abu Dhabi</COREF>
+| Correct Mention: {20} {Abu Dhabi}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">OPEC's new secretary-general, </COREF>
+| Missed Mention: {10} {Subroto} {Subroto}
+| Missed Mention: {11} {Mr. Subroto} {Subroto}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X16">Sheik Zayed Al Nahyyan, </COREF>
+| Missed Mention: {11} {the Emirates' ruler} {ruler}
+| Missed Mention: {12} {Sheik Zayed, who "reaffirmed" the Emirates' support for OPEC's "unity and cohesion."} {Sheik Zayed}
+| Missed Mention: {12} {the ruler} {ruler}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X17">Rilwanu Lukman, </COREF>
+| Missed Mention: {11} {Nigeria's oil minister} {minister}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X18">its assigned quota of 948,000 barrels a day</COREF>
+| Correct Mention: {17} {quota}
+| Wrong Mention: {14} {quota}
+| Wrong Mention: {15} {barrels}
+| Wrong Mention: {15} {day}
+| Wrong Mention: {24} {barrels}
+| Wrong Mention: {24} {day}
+| Wrong Mention: {26} {barrels}
+| Wrong Mention: {26} {day}
+| Missed Mention: {20} {quota} {quota}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X19">the round of talks with Mr. Subroto</COREF>
+| Correct Mention: {22} {talks}
+| Wrong Mention: {20} {Mr. Subroto}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X20">the Emirates' official news agency</COREF>
+| Wrong Mention: {14} {officials}
+| Wrong Mention: {17} {officials}
+| Missed Mention: {13} {news agency} {agency}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X21">oil</COREF>
+| Correct Mention: {20} {oil}
+| Wrong Mention: {17} {oil}
+| Wrong Mention: {25} {oil}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X22">such excess output by the Emirates</COREF>
+| Wrong Mention: {18} {output}
+| Wrong Mention: {23} {output}
+| Wrong Mention: {24} {output}
+| Missed Mention: {17} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X23">the world oil markets</COREF>
+| Correct Mention: {25} {markets}
+| Wrong Mention: {20} {oil}
+| Wrong Mention: {25} {oil}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X24">That</COREF>
+| Missed Mention: {18} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X25">other exporters</COREF>
+| Missed Mention: {19} {the others} {others}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X26">the meeting</COREF>
+| Missed Mention: {22} {it} {it}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X27">just over 19 million barrels a day</COREF>
+| Correct Mention: {26} {barrels}
+| Wrong Mention: {26} {day}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X28">Charles L. McSpadden, </COREF>
+| Missed Mention: {25} {manager of petroleum analysis} {manager}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X29">Antonio M. Szabo, </COREF>
+| Missed Mention: {25} {manager of petroleum planning, at Bonner @amp; Moore Market Consultants, Houston} {manager}
+| Missed Mention: {26} {Mr. Szabo} {Szabo}
+--------------------------------------------------
+
+
+#############
+#    c16    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Pneumovirus</COREF>
+| Missed Mention: {1} {paramyxovirus} {paramyxovirus}
+| Missed Mention: {2} {virus} {virus}
+| Missed Mention: {4} {metapneumovirus} {metapneumovirus}
+| Missed Mention: {4} {pathogen} {pathogen}
+| Missed Mention: {5} {the virus} {virus}
+| Missed Mention: {6} {metapneumovirus} {metapneumovirus}
+| Missed Mention: {6} {the virus} {virus}
+| Missed Mention: {8} {a metapneumovirus} {metapneumovirus}
+| Missed Mention: {8} {virus} {virus}
+| Missed Mention: {9} {virus} {virus}
+| Missed Mention: {11} {metapneumovirus} {metapneumovirus}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Children</COREF>
+| Correct Mention: {1} {children}
+| Correct Mention: {5} {children}
+| Correct Mention: {8} {children}
+| Wrong Mention: {6} {children}
+| Wrong Mention: {7} {children}
+| Wrong Mention: {9} {children}
+| Wrong Mention: {11} {children}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Bernadette G, van den Hoogen, Jan C. de Jong, Jan Goen, Thijs Kuiken, Ronald de Groot, Ron A.M. Fouchier and Albert D.M.E. Osterhaus</COREF>
+| Wrong Mention: {4} {Bernadette}
+| Missed Mention: {4} {Bernadette et al.} {Bernadette at al.}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">isolation and characterisation</COREF>
+| Correct Mention: {8} {isolation}
+| Missed Mention: {8} {discovery} {discovery}
+| Missed Mention: {9} {discovery} {discovery}
+| Missed Mention: {9} {news} {news}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">the Netherlands</COREF>
+| Correct Mention: {6} {Netherlands}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">Metapneumovirus</COREF>
+| Wrong Mention: {4} {metapneumovirus}
+| Wrong Mention: {6} {metapneumovirus}
+| Wrong Mention: {8} {metapneumovirus}
+| Wrong Mention: {11} {metapneumovirus}
+| Missed Mention: {3} {genus} {genus}
+| Missed Mention: {10} {Metapneumovirus} {Metapneumovirus}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">member</COREF>
+| Correct Mention: {10} {member}
+| Missed Mention: {3} {virus} {virus}
+| Missed Mention: {3} {turkey rhinotracheitis virus} {virus}
+| Missed Mention: {3} {avian pneumovirus} {pneumovirus}
+| Missed Mention: {10} {turkey rhinotracheitis virus} {virus}
+| Missed Mention: {10} {the virus} {virus}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">human respiratory syncytial virus</COREF>
+| Correct Mention: {7} {virus}
+| Wrong Mention: {6} {humans}
+| Wrong Mention: {6} {virus}
+| Wrong Mention: {7} {Human}
+| Wrong Mention: {7} {respiratory}
+| Wrong Mention: {8} {virus}
+| Wrong Mention: {9} {virus}
+| Wrong Mention: {10} {virus}
+| Missed Mention: {7} {HRSV} {HRSV}
+| Missed Mention: {7} {a paramyxovirus} {paramyxovirus}
+| Missed Mention: {7} {pathogen} {pathogen}
+| Missed Mention: {7} {cause} {cause}
+| Missed Mention: {7} {cause} {cause}
+| Missed Mention: {9} {HRSV} {HRSV}
+| Missed Mention: {11} {HRSV} {HRSV}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">infection</COREF>
+| Correct Mention: {9} {infection}
+| Correct Mention: {11} {infection}
+| Wrong Mention: {7} {respiratory}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">reagents</COREF>
+| Missed Mention: {11} {antibodies} {antibodies}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">Mod.CP</COREF>
+| Missed Mention: {12} {cp} {cp}
+--------------------------------------------------
+
+
+#############
+#    c17    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">ProMED</COREF>
+| Correct Mention: {15} {ProMED}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">posting</COREF>
+| Missed Mention: {0} {20030509.1157} {20030509.1157}
+| Missed Mention: {1} {this report} {report}
+| Missed Mention: {13} {the article} {article}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Psittacosis</COREF>
+| Correct Mention: {2} {disease}
+| Correct Mention: {4} {disease}
+| Correct Mention: {5} {psittacosis}
+| Correct Mention: {8} {disease}
+| Correct Mention: {10} {disease}
+| Correct Mention: {11} {disease}
+| Correct Mention: {21} {disease}
+| Wrong Mention: {14} {disease}
+| Wrong Mention: {18} {Diseases}
+| Missed Mention: {8} {the disease} {disease}
+| Missed Mention: {9} {the infection} {infection}
+| Missed Mention: {16} {psittacosis} {psittacosis}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">one significant misleading fact and a few questionable elements</COREF>
+| Correct Mention: {1} {elements}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">I</COREF>
+| Wrong Mention: {12} {number}
+| Missed Mention: {9} {I} {I}
+| Missed Mention: {15} {Dr Arzey} {Arzey}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">the source</COREF>
+| Wrong Mention: {14} {source}
+| Missed Mention: {1} {newspaper} {newspaper}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">transmission</COREF>
+| Correct Mention: {19} {transmission}
+| Wrong Mention: {8} {transmission}
+| Wrong Mention: {9} {infection}
+| Missed Mention: {3} {it} {it}
+| Missed Mention: {4} {spread} {spread}
+| Missed Mention: {5} {transmission} {transmission}
+| Missed Mention: {20} {this} {this}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">species</COREF>
+| Wrong Mention: {10} {species}
+| Wrong Mention: {11} {species}
+| Wrong Mention: {12} {bacteria}
+| Wrong Mention: {12} {species}
+| Missed Mention: {9} {birds} {birds}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">some</COREF>
+| Missed Mention: {12} {species} {species}
+| Missed Mention: {12} {they} {they}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">the organism</COREF>
+| Missed Mention: {12} {bacteria} {bacteria}
+| Missed Mention: {19} {psittacines} {psittacines}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">time</COREF>
+| Missed Mention: {13} {periods} {periods}
+--------------------------------------------------
+
+
+#############
+#    c18    #
+#############
+
+--------------------------------------------------
+| <COREF ID="X0">Lassa fever</COREF>
+| Correct Mention: {1} {fever}
+| Correct Mention: {5} {fever}
+| Correct Mention: {12} {fever}
+| Correct Mention: {14} {fever}
+| Wrong Mention: {1} {Lassa}
+| Wrong Mention: {2} {fever}
+| Wrong Mention: {5} {C. Lassa}
+| Wrong Mention: {12} {Lassa}
+| Wrong Mention: {14} {Lassa}
+| Wrong Mention: {21} {Lassa}
+| Missed Mention: {14} {Lassa fever} {fever}
+| Missed Mention: {15} {the diagnosis} {diagnosis}
+| Missed Mention: {21} {Lassa fever} {fever}
+| Missed Mention: {23} {problem} {problem}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">UNAMSILLL</COREF>
+| Missed Mention: {2} {UNAMSIL} {UNAMSIL}
+| Missed Mention: {5} {UNAMSIL} {UNAMSIL}
+| Missed Mention: {10} {UNAMSIL} {UNAMSIL}
+| Missed Mention: {11} {UNAMSIL} {UNAMSIL}
+| Missed Mention: {17} {UNAMSIL} {UNAMSIL}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">force</COREF>
+| Correct Mention: {2} {forces}
+| Correct Mention: {14} {forces}
+| Correct Mention: {17} {forces}
+| Wrong Mention: {2} {contingent}
+| Wrong Mention: {10} {services}
+| Wrong Mention: {11} {security}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Daru</COREF>
+| Correct Mention: {2} {Daru}
+| Correct Mention: {10} {Daru}
+| Correct Mention: {11} {Daru}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">case</COREF>
+| Correct Mention: {14} {case}
+| Wrong Mention: {10} {patient}
+| Wrong Mention: {10} {times}
+| Wrong Mention: {18} {cases}
+| Wrong Mention: {20} {cases}
+| Wrong Mention: {22} {Guinea}
+| Wrong Mention: {23} {time}
+| Missed Mention: {12} {introduction} {introduction}
+| Missed Mention: {14} {This} {This}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">Freetown</COREF>
+| Correct Mention: {5} {Freetown}
+| Correct Mention: {12} {Freetown}
+| Missed Mention: {10} {Freetown} {Freetown}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">member</COREF>
+| Missed Mention: {3} {He} {He}
+| Missed Mention: {5} {He} {He}
+| Missed Mention: {5} {he} {he}
+| Missed Mention: {5} {he} {he}
+| Missed Mention: {6} {He} {He}
+| Missed Mention: {7} {He} {He}
+| Missed Mention: {8} {he} {he}
+| Missed Mention: {9} {He} {He}
+| Missed Mention: {10} {patient} {patient}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">malaria</COREF>
+| Correct Mention: {4} {malaria}
+| Wrong Mention: {5} {fever}
+| Wrong Mention: {12} {fever}
+| Wrong Mention: {14} {fever}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">temperatures</COREF>
+| Correct Mention: {8} {temperature}
+| Wrong Mention: {10} {temperatures}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">We</COREF>
+| Missed Mention: {15} {We} {We}
+| Missed Mention: {19} {we} {we}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">The first</COREF>
+| Missed Mention: {13} {worker} {worker}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">virus</COREF>
+| Missed Mention: {21} {virus} {virus}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">investigation</COREF>
+| Correct Mention: {23} {investigation}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">I</COREF>
+| Missed Mention: {20} {I} {I}
+| Missed Mention: {24} {Aldis} {Aldis}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">confirmation</COREF>
+| Correct Mention: {25} {confirmation}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">CP</COREF>
+| Missed Mention: {26} {cp} {cp}
+--------------------------------------------------
+
+
+############
+#    c6    #
+############
+
+--------------------------------------------------
+| <COREF ID="X0">West Nile Virus</COREF>
+| Wrong Mention: {1} {West Nile}
+| Wrong Mention: {2} {West Nile}
+| Wrong Mention: {2} {virus}
+| Wrong Mention: {6} {West Nile}
+| Missed Mention: {1} {infection} {infection}
+| Missed Mention: {2} {West Nile   virus} {West Nile virus}
+| Missed Mention: {5} {infection} {infection}
+| Missed Mention: {5} {infection} {infection}
+| Missed Mention: {6} {West Nile virus} {West Nile virus}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Canada</COREF>
+| Correct Mention: {2} {Canada}
+| Wrong Mention: {1} {Health Canada}
+| Wrong Mention: {6} {Health Canada}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Tue</COREF>
+| Missed Mention: {1} {22 Oct 2002} {22 Oct 2002}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Health Canada</COREF>
+| Correct Mention: {6} {Health Canada}
+| Wrong Mention: {2} {Canada}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">cases</COREF>
+| Wrong Mention: {2} {case}
+| Wrong Mention: {2} {cases}
+| Wrong Mention: {3} {cases}
+| Wrong Mention: {5} {case}
+| Wrong Mention: {5} {cases}
+| Missed Mention: {6} {outbreak} {outbreak}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">case</COREF>
+| Correct Mention: {5} {case}
+| Wrong Mention: {3} {cases}
+| Wrong Mention: {5} {cases}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">Alberta</COREF>
+| Correct Mention: {5} {Alberta}
+| Missed Mention: {2} {Alberta} {Alberta}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">details</COREF>
+| Wrong Mention: {6} {information}
+| Missed Mention: {2} {post} {post}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">Ontario</COREF>
+| Correct Mention: {5} {Ontario}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">deaths</COREF>
+| Correct Mention: {4} {death}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">individuals</COREF>
+| Correct Mention: {4} {persons}
+| Wrong Mention: {5} {one}
+| Wrong Mention: {5} {case}
+| Wrong Mention: {5} {cases}
+--------------------------------------------------
+
+
+############
+#    c7    #
+############
+
+--------------------------------------------------
+| <COREF ID="X0">Dept</COREF>
+| Missed Mention: {2} {department} {department}
+| Missed Mention: {7} {department} {department}
+| Missed Mention: {8} {department} {department}
+| Missed Mention: {8} {scene} {scene}
+| Missed Mention: {9} {emergency} {emergency}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X1">Outbreak</COREF>
+| Correct Mention: {2} {outbreak}
+| Wrong Mention: {15} {Outbreaks}
+| Missed Mention: {9} {the situation} {situation}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X2">Winter Vomiting Disease</COREF>
+| Wrong Mention: {2} {winter}
+| Wrong Mention: {2} {disease}
+| Wrong Mention: {6} {winter}
+| Wrong Mention: {6} {disease}
+| Wrong Mention: {11} {disease}
+| Wrong Mention: {11} {Winter}
+| Wrong Mention: {12} {vomiting}
+| Wrong Mention: {14} {winter}
+| Wrong Mention: {14} {disease}
+| Wrong Mention: {16} {winter}
+| Wrong Mention: {18} {disease}
+| Wrong Mention: {18} {Winter}
+| Missed Mention: {2} {winter vomiting disease} {winter vomiting disease}
+| Missed Mention: {6} {winter vomiting disease} {winter vomiting disease}
+| Missed Mention: {11} {Winter vomiting disease} {Winter vomiting disease}
+| Missed Mention: {11} {an infection} {infection}
+| Missed Mention: {14} {winter vomiting disease} {winter vomiting disease}
+| Missed Mention: {18} {Winter  vomiting disease} {Winter vomiting disease}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X3">Sunnybrook Hospital</COREF>
+| Correct Mention: {10} {hospital}
+| Wrong Mention: {9} {hospital}
+| Wrong Mention: {15} {hospitals}
+| Missed Mention: {6} {hospital} {hospital}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X4">Monday</COREF>
+| Correct Mention: {4} {Monday}
+| Missed Mention: {4} {25 Nov 2002} {25 Nov 2002}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X5">patients</COREF>
+| Correct Mention: {4} {patients}
+| Wrong Mention: {9} {Patients}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X6">staff</COREF>
+| Wrong Mention: {4} {staff}
+| Missed Mention: {4} {staff members} {members}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X7">vomiting</COREF>
+| Correct Mention: {12} {vomiting}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X8">symptoms</COREF>
+| Correct Mention: {12} {Symptoms}
+| Wrong Mention: {12} {nausea}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X9">the virus</COREF>
+| Correct Mention: {13} {virus}
+| Wrong Mention: {11} {virus}
+| Wrong Mention: {18} {virus}
+| Wrong Mention: {19} {viruses}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X10">infection</COREF>
+| Correct Mention: {5} {infection}
+| Wrong Mention: {11} {infection}
+| Wrong Mention: {18} {infection}
+| Missed Mention: {6} {it} {it}
+| Missed Mention: {7} {this} {this}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X11">We</COREF>
+| Missed Mention: {6} {We} {We}
+| Missed Mention: {7} {we} {we}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X12">Craig DuHamel</COREF>
+| Correct Mention: {8} {DuHamel}
+| Correct Mention: {13} {DuHamel}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X13">Wed</COREF>
+| Missed Mention: {8} {27 Nov 2002} {27 Nov 2002}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X14">hospital</COREF>
+| Wrong Mention: {10} {hospital}
+| Wrong Mention: {15} {hospitals}
+| Missed Mention: {10} {facility} {facility}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X15">a virus</COREF>
+| Correct Mention: {18} {virus}
+| Correct Mention: {19} {viruses}
+| Wrong Mention: {13} {virus}
+| Missed Mention: {19} {group} {group}
+| Missed Mention: {19} {Norovirus} {Norovirus}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X16">Norwalk</COREF>
+| Missed Mention: {18} {Norwalk} {Norwalk}
+| Missed Mention: {19} {Norwalk} {Norwalk}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X17">ProMED-mail</COREF>
+| Correct Mention: {20} {ProMED-mail}
+| Missed Mention: {20} {promed@promedmail.org} {promed@promedmail.org}
+--------------------------------------------------
+
+--------------------------------------------------
+| <COREF ID="X18">infection</COREF>
+| Missed Mention: {18} {this} {this}
+--------------------------------------------------
+
+Micro Average Precision: 0.32422 (249/768)
+Micro Average Recall:    0.35420 (249/703)
+F-score:                 0.33855

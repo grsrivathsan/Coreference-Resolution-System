@@ -1,0 +1,32 @@
+<COREF ID="X0">Reagan</COREF>
+{6} {President}
+{6} {Reagan}
+{7} {Mr. Reagan}
+{8} {Mr. Reagan}
+{9} {Mr. Reagan}
+{11} {Mr. Reagan}
+
+<COREF ID="X1">An Arms Pact</COREF>
+{6} {arms}
+{7} {arms}
+
+<COREF ID="X2">Summit</COREF>
+{6} {summit}
+{9} {summit}
+{10} {summit}
+
+<COREF ID="X3">CHICAGO</COREF>
+
+<COREF ID="X4">Soviet leader Mikhail Gorbachev</COREF>
+{6} {he}
+{9} {Mr. Gorbachev}
+{11} {Soviet}
+
+<COREF ID="X5">an agreement eliminating intermediate-range nuclear missiles, signed at a summit meeting in Washington last December</COREF>
+{10} {Washington}
+{10} {summit}
+
+<COREF ID="X6">Our</COREF>
+
+<COREF ID="X7">such a treaty</COREF>
+

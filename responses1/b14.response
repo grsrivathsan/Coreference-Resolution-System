@@ -1,0 +1,109 @@
+<COREF ID="X0">Rise in Labor Costs, Wage Agreements</COREF>
+{3} {LABOR}
+{6} {wage}
+{6} {costs}
+{6} {labor}
+{8} {costs}
+{11} {agreements}
+{11} {wage}
+{12} {agreements}
+{12} {wage}
+{13} {wage}
+{16} {agreements}
+{17} {wage}
+{18} {labor}
+{19} {wage}
+{22} {agreements}
+
+<COREF ID="X1">'87</COREF>
+
+<COREF ID="X2">the Labor Department</COREF>
+{7} {department}
+{10} {department}
+{12} {Labor Department}
+{13} {Department}
+{16} {department}
+{18} {labor}
+
+<COREF ID="X3">Total compensation costs in private industry, including pay and benefits,</COREF>
+{8} {costs}
+{12} {pay}
+{14} {compensation}
+{15} {benefits}
+{15} {pay}
+
+<COREF ID="X4">1986</COREF>
+
+<COREF ID="X5">9.8%, </COREF>
+
+<COREF ID="X6">collective bargaining agreements reached last year</COREF>
+{10} {last}
+{11} {agreements}
+{11} {bargaining}
+{12} {agreements}
+{12} {year}
+{13} {year}
+{16} {agreements}
+{16} {bargaining}
+{18} {year}
+{21} {year}
+{22} {agreements}
+{22} {year}
+
+<COREF ID="X7">an average 2.2% wage increase in the first year of the contract</COREF>
+{10} {contract}
+{11} {wage}
+{11} {contract}
+{12} {wage}
+{12} {%}
+{12} {1.2}
+{12} {1.8}
+{12} {year}
+{12} {years}
+{12} {increase}
+{13} {wage}
+{13} {year}
+{16} {increase}
+{17} {wage}
+{18} {year}
+{19} {wage}
+{20} {%}
+{20} {2.9}
+{20} {3.1}
+{21} {%}
+{21} {year}
+{21} {2.1}
+{21} {1.9}
+{22} {year}
+
+<COREF ID="X8">the life of the pact</COREF>
+{12} {life}
+
+<COREF ID="X9">pay</COREF>
+{11} {wage}
+{12} {wage}
+{12} {pay}
+{13} {wage}
+{15} {pay}
+{17} {wage}
+{19} {wage}
+
+<COREF ID="X10">Officials</COREF>
+{13} {officials}
+{14} {officials}
+
+<COREF ID="X11">labor</COREF>
+{16} {department}
+{18} {labor}
+
+<COREF ID="X12">lump-sum payments, which are one-time payments often made upon a contract's ratification</COREF>
+{17} {payments}
+{18} {payments}
+
+<COREF ID="X13">construction industry</COREF>
+{20} {Construction}
+
+<COREF ID="X14">the first contract year</COREF>
+{21} {year}
+{22} {year}
+

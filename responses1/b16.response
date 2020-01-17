@@ -1,0 +1,61 @@
+<COREF ID="X0">Chrysler</COREF>
+{7} {Chrysler}
+{17} {Chrysler}
+{29} {Chrysler}
+{30} {Chrysler}
+
+<COREF ID="X1">Grievance Process For Non-Union Staff</COREF>
+{2} {WSJ Staff}
+{6} {non-union}
+{14} {process}
+{32} {process}
+
+<COREF ID="X2">ROCHESTER, Mich.</COREF>
+
+<COREF ID="X3">Anthony P. St. John</COREF>
+{12} {Mr. St. John}
+{13} {Mr. St. John}
+{31} {Mr. St. John}
+
+<COREF ID="X4">Employees</COREF>
+{17} {employees}
+{20} {employees}
+{23} {employees}
+{24} {employee}
+{28} {employee}
+{31} {employees}
+
+<COREF ID="X5">these employees</COREF>
+{17} {employees}
+{20} {employees}
+{23} {employees}
+{24} {employee}
+{28} {employee}
+{31} {employees}
+
+<COREF ID="X6">Chrysler's move</COREF>
+{17} {Chrysler}
+{19} {move}
+{29} {Chrysler}
+{30} {Chrysler}
+
+<COREF ID="X7">United Auto Workers</COREF>
+{32} {workers}
+
+<COREF ID="X8">Several management consultants</COREF>
+{27} {management}
+{31} {management}
+
+<COREF ID="X9">Jerrold Bratkovich</COREF>
+
+<COREF ID="X10">A Chrysler spokesman</COREF>
+{28} {spokesman}
+{29} {Chrysler}
+{30} {Chrysler}
+
+<COREF ID="X11">International Business Machines Corp.</COREF>
+
+<COREF ID="X12">an IBM spokesman</COREF>
+{28} {spokesman}
+{28} {IBM}
+

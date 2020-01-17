@@ -1,0 +1,40 @@
+<COREF ID="X0">ProMED</COREF>
+{15} {ProMED}
+
+<COREF ID="X1">posting</COREF>
+
+<COREF ID="X2">Psittacosis</COREF>
+{2} {disease}
+{4} {disease}
+{5} {psittacosis}
+{8} {disease}
+{10} {disease}
+{11} {disease}
+{14} {disease}
+{21} {disease}
+
+<COREF ID="X3">one significant misleading fact and a few questionable elements</COREF>
+{1} {elements}
+
+<COREF ID="X4">I</COREF>
+{12} {number}
+
+<COREF ID="X5">the source</COREF>
+{14} {source}
+
+<COREF ID="X6">transmission</COREF>
+{8} {transmission}
+{9} {infection}
+{19} {transmission}
+
+<COREF ID="X7">species</COREF>
+{10} {species}
+{11} {species}
+{12} {species}
+
+<COREF ID="X8">some</COREF>
+
+<COREF ID="X9">the organism</COREF>
+
+<COREF ID="X10">time</COREF>
+
